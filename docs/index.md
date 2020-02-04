@@ -29,3 +29,4 @@ in to DRF. However, it overcomes some problems present in the default implementa
 -   DRF tokens track their creation time, but have no inbuilt mechanism for tokens
     expiring. Knox tokens can have an expiry configured in the app settings (default is
     10 hours.)
+    
